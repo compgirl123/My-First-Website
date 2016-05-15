@@ -1,0 +1,22 @@
+body
+            {
+                background-color: sandybrown;
+            }
+            .cheeky_dog
+            {
+                border-style:dotted;
+                border-color:darkgreen;
+                border-width:5px;
+            }
+            .border
+            {
+                border-style:solid;
+                border-width:5px;
+                border-color:greenyellow;
+            }
+            .cockerspanial
+            {
+                border-style:dotted;
+                border-color:darkgreen;
+                border-width:5px
+            }

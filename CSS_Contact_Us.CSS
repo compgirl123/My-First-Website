@@ -1,0 +1,33 @@
+           .banner
+            {
+                border-style:solid;
+                border-color:purple;
+                border-width:5px;
+            }
+            body
+            {
+                 background-color: sandybrown; 
+       
+            }
+            .Name
+            {
+                color:purple;
+                font-weight: bold;
+                
+            }
+            .Studentid
+            {
+                color:purple;
+                font-weight: bold;
+            }
+            .email
+            {
+                color:purple;
+                font-weight: bold;
+            }
+            .contact
+            {
+                border-style: dotted;
+                border-width: 5px;
+                border-color: rebeccapurple;
+            }

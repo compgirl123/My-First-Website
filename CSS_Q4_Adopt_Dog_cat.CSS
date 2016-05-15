@@ -1,0 +1,76 @@
+
+    a 
+    {
+        display: block;
+        color:black;
+        text-decoration: none;
+        padding:15px;
+       
+    }
+
+    a:hover 
+     {
+    
+        background-color: white;
+        color: white;
+
+     }
+
+             
+
+            body
+            {
+                background-color:darkred;
+            }
+            header
+            {
+                border-style:solid;
+                color:darkred;
+                 
+            }
+            
+            nav
+            {
+                border-style:solid;
+                border-color:darkgoldenrod;
+                border-width:5px; 
+                background-color:burlywood;
+                height:500px;
+                width:20%;
+                float:left;
+                padding:5px;
+                font-weight:bold;
+                
+               
+            }
+            .page
+            {
+                color:saddlebrown;
+            }
+            section
+            {
+                height=100px;
+                width=100px;
+                float=right;
+                background:darkred;
+            }
+            footer
+            {
+                background-color:burlywood;
+                border-width:5px; 
+                
+            }
+            a
+            {
+                text-decoration: none;
+                display:block;
+                
+            }
+           
+           
+            .frame
+            {
+                border-width:5px; 
+                border:none;
+            }
+            

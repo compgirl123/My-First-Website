@@ -1,0 +1,16 @@
+            body
+            {
+                background-color:sandybrown;
+            }
+            .banner
+            {
+                border-style:solid;
+                border-color:saddlebrown;
+                border-width: 5px;
+            }
+            .animal
+            {
+                border-style:dotted;
+                border-color:saddlebrown;
+                border-width: 5px;
+            }

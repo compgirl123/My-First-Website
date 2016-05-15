@@ -1,0 +1,16 @@
+            body
+            {
+                background-color:sandybrown;
+            }
+            .banner
+            {
+               border-style:solid;
+               border-color:orangered;
+               border-width:5px;
+            }
+            .pet
+            {
+               border-style:dotted;
+               border-color:orangered;
+               border-width:5px;
+            }
